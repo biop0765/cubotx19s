@@ -1,7 +1,7 @@
 ### cubotx19s
 
 
-#### root
+#### useful commands
 
 
 
